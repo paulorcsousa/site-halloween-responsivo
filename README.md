@@ -1,2 +1,6 @@
-# site-halloween-responsivo
-Site de halloween, responsivo. feito com auxílio do bedimcode. para aquisição de prática e estudo com HTML, CSS E JS
+# Site halloween responsivo
+Site de halloween, responsivo. Website utilizando HTML, CSS & JavaScript.
+Contendo imagens animadas.
+Intuito de adquirir prática, estudo e entendimento do código.
+
+Realizado com auxilio da Bedimcode. 
